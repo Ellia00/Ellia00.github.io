@@ -1,0 +1,9 @@
+title: En webbplats
+markdown: kramdown
+
+gems:
+- jekyll-github-metadata
+- jekyll-mentions
+- jekyll-redirect-from
+- jekyll-sitemap
+- jemoji
